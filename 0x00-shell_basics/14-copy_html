@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -i .html parent directory
+cp -i *.html parent directory
