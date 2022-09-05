@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -l 'root' /etc/psswd
+grep -r root /etc/psswd
