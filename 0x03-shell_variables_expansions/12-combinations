@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "{a..n}{a..z}\n {p..z}{a..z}\n"
+echo ls -1t {a..n}{a..z} {p..z}{a..z}
