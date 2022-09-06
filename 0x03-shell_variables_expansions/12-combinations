@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1t echo {a..n}{a..z} {p..z}{a..z}
+echo {a..n}{a..z} {p..z}{a..z}| "\n"
