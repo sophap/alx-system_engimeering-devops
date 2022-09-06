@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${D2H[$DECIMAL]}
+printf 'x%\n' $DECIMAL
